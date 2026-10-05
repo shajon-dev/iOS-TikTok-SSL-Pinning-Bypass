@@ -10,14 +10,14 @@
 ---
 
 ## 📌 Latest Bypassed and Tested App Details
-- App version: **46.7.0**
+- App version: **47.0.0**
 - Tools Used for test: [Mitmproxy](https://mitmproxy.org/), [Reqable](https://reqable.com/).
 - For any inquiries, please contact me on Telegram [https://t.me/SHAJON](https://t.me/SHAJON)
 
 ---
 
 ## 🎥 Evidence
-![TikTok iOS](assets/v46.7.0.jpg)
+![TikTok iOS](assets/v47.0.0.jpg)
 
 ---
 
@@ -53,7 +53,7 @@
   <tbody>
     <tr>
       <td rowspan="2" align="center"><code>com.zhiliaoapp.musically</code></td>
-      <td align="center">46.7.0</td>
+      <td align="center">47.0.0</td>
       <td align="center">✅ Bypassed</td>
       <td align="center">✅ Yes</td>
       <td align="center"><a href="https://t.me/SHAJON">Contact Telegram</a></td>
